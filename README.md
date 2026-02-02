@@ -48,23 +48,12 @@ I specialize in designing clean architectures and shipping reliable software tha
 
 ## 🚀 What I Build
 
-✔️ End-to-end **full-stack web applications**  
-✔️ Scalable backend APIs and services  
-✔️ Modern, responsive UIs with Angular & React 
-✔️ Secure, scalable application architectures  
+✔️ End-to-end **full-stack web applications**
+✔️ Scalable backend APIs and services
+✔️ Modern, responsive UIs with Angular & React
+✔️ Secure, scalable application architectures
 ✔️ Interactive and responsive user experiences 
-✔️ Cloud-native systems with CI/CD pipelines  
-
----
-
-## 🏗️ Highlights
-
-- Built and maintained production-grade full-stack platforms  
-- Designed REST and GraphQL APIs for web and mobile apps  
-- Implemented secure authentication & authorization (JWT, OAuth)  
-- Improved reliability using event-driven architecture  
-- Focused on clean code, testing, and long-term maintainability  
-- Worked closely with business and product teams to ship real features  
+✔️ Cloud-native systems with CI/CD pipelines
 
 ---
 
