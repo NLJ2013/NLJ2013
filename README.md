@@ -71,7 +71,7 @@ I specialize in designing clean architectures and shipping reliable software tha
 ## 📫 Let’s Connect
 
 🌐 Website: https://nipunajay.com  
-💼 LinkedIn: https://www.linkedin.com/in/nipunajay/
+💼 LinkedIn: https://www.linkedin.com/in/nipunajay
 🐙 GitHub: https://github.com/NLJ2013
 
 ---
